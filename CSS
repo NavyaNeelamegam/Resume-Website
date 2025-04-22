@@ -1,3 +1,7 @@
+/* CSS for Navya's Resume Website */
+/* Claude-inspired color palette with purple tones */
+
+/* Base Styles & Variables */
 :root {
     --primary-color: #5436DA;
     --primary-light: #8372E7;
@@ -649,3 +653,4 @@ section {
         min-height: auto;
     }
 }
+
